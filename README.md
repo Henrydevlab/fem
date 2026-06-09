@@ -21,7 +21,10 @@ A central index for my [Frontend Mentor](https://www.frontendmentor.io) project 
 | **Qr Code Component** | HTML, CSS Grid | [📦 View Repo](https://github.com/Henrydevlab/qr-code-component) | [🚀 Live Demo](https://henrydevlab.github.io/qr-code-component/) |
 | **Social links Profile** | HTML, CSS Flexbox | [📦 View Repo](https://github.com/Henrydevlab/social-links-profile) | [🚀 Live Demo](https://henrydevlab.github.io/social-links-profile/) |
 | **Blog Preview Card** | HTML, CSS Flexbox | [📦 View Repo](https://github.com/Henrydevlab/blog-preview-card) | [🚀 Live Demo](https://henrydevlab.github.io/blog-preview-card/) |
-| **[Project Name]** | [e.g., HTML5, CSS Grid] | [📦 View Repo](https://github.com/[YourUsername]/[repo-name]) | [🚀 Live Demo](https://[YourUsername].github.io/[repo-name]/) |
+| **Testimonial Grid section** | HTML, CSS Grid & Flexbox | [📦 View Repo](https://github.com/Henrydevlab/testimonials-grid-section) | [🚀 Live Demo](https://henrydevlab.github.io/testimonials-grid-section/) |
+| **Four Card Feature Section** | HTML, CSS Grid & Flexbox | [📦 View Repo](https://github.com/Henrydevlab/four-card-feature-section) | [🚀 Live Demo](https://henrydevlab.github.io/four-card-feature-section/) |
+| **[Product Preview Card Component** | HTML, CSS Grid]| [📦 View Repo](https://github.com/Henrydevlab/product-preview-card-component) | [🚀 Live Demo](https://henrydevlab.github.io/product-preview-card-component/) |
+**[Project Name]** | [e.g., HTML5, CSS Grid] | [📦 View Repo](https://github.com/[YourUsername]/[repo-name]) | [🚀 Live Demo](https://[YourUsername].github.io/[repo-name]/) |
 
 #### ⚡ JavaScript & Interactive
 | Project Name | Core Tech Stack | Source Code (Repo) | Live Preview |
