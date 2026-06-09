@@ -24,6 +24,9 @@ A central index for my [Frontend Mentor](https://www.frontendmentor.io) project 
 | **Testimonial Grid section** | HTML, CSS Grid & Flexbox | [📦 View Repo](https://github.com/Henrydevlab/testimonials-grid-section) | [🚀 Live Demo](https://henrydevlab.github.io/testimonials-grid-section/) |
 | **Four Card Feature Section** | HTML, CSS Grid & Flexbox | [📦 View Repo](https://github.com/Henrydevlab/four-card-feature-section) | [🚀 Live Demo](https://henrydevlab.github.io/four-card-feature-section/) |
 | **[Product Preview Card Component** | HTML, CSS Grid]| [📦 View Repo](https://github.com/Henrydevlab/product-preview-card-component) | [🚀 Live Demo](https://henrydevlab.github.io/product-preview-card-component/) |
+**Profile Card Component** | HTML, CSS Grid & Flexbox | [📦 View Repo](https://github.com/Henrydevlab/profile-card-component) | [🚀 Live Demo](https://henrydevlab.github.io/profile-card-component/) |
+**Order Summary Card** | HTML, CSS Flexbox] | [📦 View Repo](https://github.com/Henrydevlab/order-summary-component) | [🚀 Live Demo](https://henrydevlab.github.io/order-summary-component/) |
+**Nft Preview Card Component** | HTML, CSS Grid & Flexbox | [📦 View Repo](https://github.com/Henrydevlab/nft-preview-card-component) | [🚀 Live Demo](https://henrydevlab.github.io/nft-preview-card-component/) |
 **[Project Name]** | [e.g., HTML5, CSS Grid] | [📦 View Repo](https://github.com/[YourUsername]/[repo-name]) | [🚀 Live Demo](https://[YourUsername].github.io/[repo-name]/) |
 
 #### ⚡ JavaScript & Interactive
@@ -32,6 +35,8 @@ A central index for my [Frontend Mentor](https://www.frontendmentor.io) project 
 | **Article Preview Component** | HTML, CSS, JavaScript | [📦 View Repo](https://github.com/Henrydevlab/article-preview-component) | [🚀 Live Demo](https://henrydevlab.github.io/article-preview-component/) |
 | **FAQ Accordion** | HTML, CSS, JavaScript | [📦 View Repo](https://github.com/Henrydevlab/faq-accordion) | [🚀 Live Demo](https://henrydevlab.github.io/faq-accordion/) |
 | **Contact Form** | HTML, CSS, JavaScript | [📦 View Repo](https://github.com/Henrydevlab/contact-form) | [🚀 Live Demo](https://henrydevlab.github.io/contact-form/) |
+| **Interactive Rating Component** | HTML, Flexbox, JavaScript] | [📦 View Repo](https://github.com/Henrydevlab/interactive-rating-component) | [🚀 Live Demo](https://henrydevlab.github.io/interactive-rating-component/) |
+| **Results Summary Component** | HTML, CSS Grid & Flexbox, JavaScript | [📦 View Repo](https://github.com/Henrydevlab/results-summary-component) | [🚀 Live Demo](https://henrydevlab.github.io/results-summary-component/) |
 | **[Project Name]** | [e.g., HTML5, Flexbox, JavaScript] | [📦 View Repo](https://github.com/[YourUsername]/[repo-name]) | [🚀 Live Demo](https://[YourUsername].github.io/[repo-name]/) |
 
 ## 👤 Author
