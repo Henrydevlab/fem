@@ -11,23 +11,21 @@ A central index for my [Frontend Mentor](https://www.frontendmentor.io) project 
 
 ## 🚀 My Solutions
 
-### 🧱 HTML & CSS Only
+### 📅 Week 1 - June Challenges
+
+#### 🧱 HTML & CSS Only
 | Project Name | Core Tech Stack | Source Code (Repo) | Live Preview |
 | :--- | :--- | :---: | :---: |
 | **Hoddle landing Page** | HTML, CSS Grid | [📦 View Repo](https://github.com/Henrydevlab/huddle-landing-page) | [🚀 Live Demo](https://henrydevlab.github.io/huddle-landing-page/) |
 | **Stats Preview Card component** | HTML, CSS Flexbox | [📦 View Repo](https://github.com/Henrydevlab/stats-preview-card-component) | [🚀 Live Demo](https://henrydevlab.github.io/stats-preview-card-component/) |
 | **3 Column Card Component** | HTML, CSS Grid | [📦 View Repo](https://github.com/Henrydevlab/3-column-card-component) | [🚀 Live Demo](https://henrydevlab.github.io/3-column-card-component/) |
-| **[Project Name]** | [e.g., HTML5, CSS Grid] | [📦 View Repo](https://github.com/[YourUsername]/[repo-name]) | [🚀 Live Demo](https://[YourUsername].github.io/[repo-name]/) |
-| **[Project Name]** | [e.g., HTML5, CSS Grid] | [📦 View Repo](https://github.com/[YourUsername]/[repo-name]) | [🚀 Live Demo](https://[YourUsername].github.io/[repo-name]/) |
 
-### ⚡ JavaScript & Interactive
+#### ⚡ JavaScript & Interactive
 | Project Name | Core Tech Stack | Source Code (Repo) | Live Preview |
 | :--- | :--- | :---: | :---: |
 | **Article Preview Component** | HTML, CSS, JavaScript | [📦 View Repo](https://github.com/Henrydevlab/article-preview-component) | [🚀 Live Demo](https://henrydevlab.github.io/article-preview-component/) |
-| **Faq Accordion** | HTML, CSS, JavaScript] | [📦 View Repo](https://github.com/Henrydevlab/faq-accordion) | [🚀 Live Demo](https://henrydevlab.github.io/faq-accordion/) |
-| **Contact Form** | HTML, CSS, JavaScript] | [📦 View Repo](https://github.com/Henrydevlab/contact-form) | [🚀 Live Demo](https://henrydevlab.github.io/contact-form/) |
-| **[Project Name]** | [e.g., HTML5, Flexbox, JavaScript] | [📦 View Repo](https://github.com/[YourUsername]/[repo-name]) | [🚀 Live Demo](https://[YourUsername].github.io/[repo-name]/) |
-| **[Project Name]** | [e.g., HTML5, Flexbox, JavaScript] | [📦 View Repo](https://github.com/[YourUsername]/[repo-name]) | [🚀 Live Demo](https://[YourUsername].github.io/[repo-name]/) |
+| **FAQ Accordion** | HTML, CSS, JavaScript | [📦 View Repo](https://github.com/Henrydevlab/faq-accordion) | [🚀 Live Demo](https://henrydevlab.github.io/faq-accordion/) |
+| **Contact Form** | HTML, CSS, JavaScript | [📦 View Repo](https://github.com/Henrydevlab/contact-form) | [🚀 Live Demo](https://henrydevlab.github.io/contact-form/) |
 
 ## 👤 Author
 
