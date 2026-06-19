@@ -27,6 +27,9 @@ A central portfolio dashboard showcasing my Frontend Mentor solutions with a foc
 | **Profile Card Component** | HTML, CSS Grid & Flexbox | [📦 View Repo](https://github.com/Henrydevlab/profile-card-component) | [🚀 Live Demo](https://henrydevlab.github.io/profile-card-component/) |
 | **Order Summary Card** | HTML, CSS Flexbox | [📦 View Repo](https://github.com/Henrydevlab/order-summary-component) | [🚀 Live Demo](https://henrydevlab.github.io/order-summary-component/) |
 | **Nft Preview Card Component** | HTML, CSS Grid & Flexbox | [📦 View Repo](https://github.com/Henrydevlab/nft-preview-card-component) | [🚀 Live Demo](https://henrydevlab.github.io/nft-preview-card-component/) |
+| **Single Price Component** |HTML, CSS Grid | [📦 View Repo](https://github.com/Henrydevlab/single-price-component) | [🚀 Live Demo](https://henrydevlab.github.io/single-price-component/) |
+| **Social Proof Section** | HTML, CSS Grid] | [📦 View Repo](https://github.com/Henrydevlab/social-proof-section) | [🚀 Live Demo](https://henrydevlab.github.io/social-proof-section/) |
+| **[Project Name]** | [e.g., HTML5, CSS Grid] | [📦 View Repo](https://github.com/[YourUsername]/[repo-name]) | [🚀 Live Demo](https://[YourUsername].github.io/[repo-name]/) |
 
 #### ⚡ JavaScript & Interactive
 | Project Name | Core Tech Stack | Source Code (Repo) | Live Preview |
@@ -36,6 +39,9 @@ A central portfolio dashboard showcasing my Frontend Mentor solutions with a foc
 | **Contact Form** | HTML, CSS, JavaScript | [📦 View Repo](https://github.com/Henrydevlab/contact-form) | [🚀 Live Demo](https://henrydevlab.github.io/contact-form/) |
 | **Interactive Rating Component** | HTML, Flexbox, JavaScript | [📦 View Repo](https://github.com/Henrydevlab/interactive-rating-component) | [🚀 Live Demo](https://henrydevlab.github.io/interactive-rating-component/) |
 | **Results Summary Component** | HTML, CSS Grid & Flexbox, JavaScript | [📦 View Repo](https://github.com/Henrydevlab/results-summary-component) | [🚀 Live Demo](https://henrydevlab.github.io/results-summary-component/) |
+| **Ping Page** | HTML, CSS, JavaScript | [📦 View Repo](https://github.com/Henrydevlab/ping-page) | [🚀 Live Demo](https://henrydevlab.github.io/ping-page/) |
+| **Intro SignUp Form** | HTML, CSS JavaScript | [📦 View Repo](https://github.com/Henrydevlab/intro-signup-form) | [🚀 Live Demo](https://henrydevlab.github.io/intro-signup-form/) |
+| **[Project Name]** | [e.g., HTML5, CSS Grid] | [📦 View Repo](https://github.com/[YourUsername]/[repo-name]) | [🚀 Live Demo](https://[YourUsername].github.io/[repo-name]/) |
 
 ## 👤 Author
 
